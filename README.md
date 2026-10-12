@@ -111,20 +111,3 @@ Not required, and not needed to clear the task — but they count.
 One rule: a brownie-point fix must not break anything else. If it does,
 it costs you rather than earns you.
 
-
-
-## Rules
-
-- **No AI tools.** No ChatGPT, Claude, Copilot, Cursor or anything
-  similar. We are testing how you debug, not how you prompt.
-- **Documentation, Stack Overflow and asking seniors are all fine.**
-  Anything where you still have to work out what applies to your code.
-- **Commit as you go.** Small commits with real messages. One giant
-  commit at the end will be asked about.
-- **You will explain your work live.** Everyone shortlisted sits a
-  short session: you talk through your fixes and make one small change
-  while we watch. Work you cannot explain does not count, however
-  correct it looks.
-
-Stuck for more than an hour on one thing? Ask in the group. Asking is
-not a penalty — it is what you would do on a real team.
