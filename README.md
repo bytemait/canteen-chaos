@@ -5,7 +5,7 @@ dishes to a cart, apply coupons, pick a collection time and place an
 order. Staff watch the queue on a counter dashboard and move orders
 along.
 
-It works — mostly. Some things in it are broken, and your job is to
+It works mostly. Some things in it are broken, and your job is to
 find and fix the ones you are given.
 
 
@@ -60,7 +60,7 @@ Two things worth knowing before you start:
   the order state machine and so on. Most behaviour you can see in the
   browser is decided in there.
 - **The server owns the truth.** Opening hours, stock, prices and
-  discounts are all decided server-side. The browser only displays what
+  discounts are all decided server side. The browser only displays what
   it is told.
 
 Reset the data if a test run leaves it in a strange state:
@@ -73,7 +73,7 @@ git checkout -- backend/data/
 
 ## Your task
 
-You will be given a **bug log** — a list of specific problems reported
+You will be given a **bug log** a list of specific problems reported
 in this app. Each one describes what a person saw, not where the
 problem is. Finding that is the task.
 
@@ -97,7 +97,7 @@ counts for nothing.
 
 ## Brownie points
 
-Not required, and not needed to clear the task — but they count.
+Not required, and not needed to clear the task but they count.
 
 - **Bugs nobody reported.** There are problems in this app that are not
   in your bug log. Find one, prove it, and write it up the same way.
@@ -108,7 +108,7 @@ Not required, and not needed to clear the task — but they count.
   you are unsure about, explained clearly. This scores better than
   silence.
 
-One rule: a brownie-point fix must not break anything else. If it does,
+One rule: a brownie point fix must not break anything else. If it does,
 it costs you rather than earns you.
 
 
@@ -127,4 +127,4 @@ it costs you rather than earns you.
   correct it looks.
 
 Stuck for more than an hour on one thing? Ask in the group. Asking is
-not a penalty — it is what you would do on a real team.
+not a penalty it is what you would do on a real team.
